@@ -1,2 +1,4 @@
 # JSON_XML_CSV
-D&amp;S homework
+DS team homework
+XXX would be easier for a human to read because ____
+XXX would be easier for a computer to read because ____
